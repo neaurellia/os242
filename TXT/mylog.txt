@@ -1,0 +1,5 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+
+ZCZC WOO 30 L03 GitHub related
