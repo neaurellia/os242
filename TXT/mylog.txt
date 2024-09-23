@@ -19,7 +19,7 @@ ZCZC W00 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W01 120 L05 Quiz related including studying
 ZCZC W01 300 L11 Assignment #01
 ZCZC W01 5 L41 TXT/mylog.txt
-ZCZC WO1 120 L11 Assignment #01
+ZCZC W01 120 L11 Assignment #01
 ZCZC W01 5 L41 TXT/mylog.txt
 ZCZC W01 30 L05 Quiz related including studying
 ZCZC W01 30 L06 References/Books/Documents/Browsing/GSGS related
@@ -33,3 +33,13 @@ ZCZC W02 60 L12 Assignment #02
 ZCZC W02 5 L41 TXT/mylog.txt
 ZCZC W02 120 L12 Assignment #02
 ZCZC W02 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 5 L41 TXT/mylog.txt
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 60 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W03 120 L12 Assignment #03
+ZCZC W03 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 5 L41 TXT/mylog.txt
+ZCZC W03 60 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W03 10 L41 TXT/mylog.txt
