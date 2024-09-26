@@ -43,3 +43,10 @@ ZCZC W03 120 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 5 L41 TXT/mylog.txt
 ZCZC W03 60 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
 ZCZC W03 10 L41 TXT/mylog.txt
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 60 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W04 60 L14 Assignment #04
+ZCZC W04 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 10 L41 TXT/mylog.txt

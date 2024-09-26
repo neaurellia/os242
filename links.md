@@ -18,6 +18,5 @@ permalink: LINKS/
 * [Stack Overflow](https://stackoverflow.com/){:target="_blank"} ---
   This is Stack Overflow that practically answers a lot of questions about coding in general.
 Some easy-to-use commands you can use to inspect hardware. 
-These commands will help you list PCI devices, view information about your CPU, and more.
-<br>
-<hr>
+* [My GitHub Account](https://github.com/neaurellia/os242){:target="_blank"} ---
+  Well yes this is my GitHub account. Please take a look around.
