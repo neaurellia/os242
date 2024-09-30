@@ -50,3 +50,7 @@ ZCZC W04 60 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend,
 ZCZC W04 60 L14 Assignment #04
 ZCZC W04 120 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 10 L41 TXT/mylog.txt
+ZCZC W04 30 L05 Quiz related including studying
+ZCZC W04 90 L14 Assignment #04
+ZCZC W04 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 10 L41 TXT/mylog.txt
