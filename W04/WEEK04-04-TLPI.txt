@@ -1,0 +1,27 @@
+ZCZC 3011C42 TLPIBALL acl altio BUILDING cap cgroups CHANGES consh COPYING.agpl-v3 COPYING.gpl-v3 COPYING.lgpl-v3 daemons dirs_links filebuff fileio filelock files filesys getopt inotify lib loginacct Makefile Makefile.inc Makefile.inc.FreeBSD Makefile.inc.HP-UX Makefile.inc.MacOSX Makefile.inc.Solaris Makefile.inc.Tru64 memalloc mmap namespaces pgsjc pipes pmsg proc proccred procexec procpri procres progconc psem pshm pty README seccomp shlibs signals sockets svipc svmsg svsem svshm sysinfo syslim threads time timers tty users_groups vdso vmem xattr
+ZCZC 30B6A80 PWD /home/neaurellia/mywork/WEEK04/tlpi-dist
+ZCZC 30477BC MAKE
+ZCZC 30E5354 DIRSIZE 1208
+ZCZC 307841E FILE1 -rw-r--r-- 1 neaurellia neaurellia 5841 Dec 27  2023 README
+ZCZC 300F7BE FILE2 -rw-r--r-- 1 neaurellia neaurellia 2915 Sep 13 19:55 time/calendar_time.c
+ZCZC 30AB12A FILE3 -rwxr-xr-x 1 neaurellia neaurellia 28800 Sep 27 01:16 time/calendar_time
+ZCZC 303D172 calendar_time Seconds since the Epoch (1 Jan 1970): 1727374584 (about 54.738 years)
+  gettimeofday() returned 1727374584 secs, 159579 microsecs
+Broken down by gmtime():
+  year=124 mon=8 mday=26 hour=18 min=16 sec=24 wday=4 yday=269 isdst=0
+Broken down by localtime():
+  year=124 mon=8 mday=27 hour=1 min=16 sec=24 wday=5 yday=270 isdst=0
+
+asctime() formats the gmtime() value as: Thu Sep 26 18:16:24 2024
+ctime() formats the time() value as:     Fri Sep 27 01:16:24 2024
+mktime() of gmtime() value:    1727349384 secs
+mktime() of localtime() value: 1727374584 secs
+ZCZC 30B01CD make clean
+ZCZC 309441B WEEKSQ 04 04
+ZCZC 305D9C7 VERSUM 39:FB10495B 39:FB10495B
+ZCZC 300AF75 VERINC 77:E3004E0A 77:E3004E0A
+ZCZC 30FCB5A SCRIPT # REV07: Tue 24 Sep 2024 06:00
+ZCZC 3067A51 VERDSK 23G 32G 9E6501920416 B18484AC9E9D
+ZCZC 308CFF1 VERLNX 6.1.0-25-amd64
+ZCZC 30BC64A TLPISIZE 707 1049 707
+ZCZC 30CE909 RESULT ===== RESULT IN /home/neaurellia/RESULT/W04/WEEK04-04-TLPI.txt =====
