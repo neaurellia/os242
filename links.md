@@ -20,3 +20,5 @@ permalink: LINKS/
 Some easy-to-use commands you can use to inspect hardware. 
 * [My GitHub Account](https://github.com/neaurellia/os242){:target="_blank"} ---
   Well yes this is my GitHub account. Please take a look around.
+* [Linux File System/Structure Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw){:target="_blank"} ---
+  I found this link to help me study Linux even more.
