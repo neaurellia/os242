@@ -65,3 +65,14 @@ ZCZC W05 30 L05 Quiz related including studying
 ZCZC W05 90 L15 Assignment #05
 ZCZC W05 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W05 10 L41 TXT/mylog.txt
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 90 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W06 60 L15 Assignment #05
+ZCZC W06 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 10 L41 TXT/mylog.txt
+ZCZC W06 30 L05 Quiz related including studying
+ZCZC W06 90 L16 Assignment #06
+ZCZC W06 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 10 L41 TXT/mylog.txt

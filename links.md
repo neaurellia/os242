@@ -22,3 +22,5 @@ Some easy-to-use commands you can use to inspect hardware.
   Well yes this is my GitHub account. Please take a look around.
 * [Linux File System/Structure Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw){:target="_blank"} ---
   I found this link to help me study Linux even more.
+* [Docusaurus](https://docusaurus.io/){:target="_blank"} ---
+  This is Docusaurus.io. This is just it's official website,not my personalized setup.
