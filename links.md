@@ -24,3 +24,5 @@ Some easy-to-use commands you can use to inspect hardware.
   I found this link to help me study Linux even more.
 * [Docusaurus](https://docusaurus.io/){:target="_blank"} ---
   This is Docusaurus.io. This is just it's official website,not my personalized setup.
+* [Youtube Video - Forking](https://www.youtube.com/watch?v=IFEFVXvjiHY&t=75s&pp=ygUbZm9ya2luZyBpbiBvcGVyYXRpbmcgc3lzdGVt){:target="_blank"} ---
+  This is a tutorial video from Neso Academy about Forking.
