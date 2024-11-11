@@ -26,3 +26,4 @@ Some easy-to-use commands you can use to inspect hardware.
   This is Docusaurus.io. This is just it's official website,not my personalized setup.
 * [Youtube Video - Forking](https://www.youtube.com/watch?v=IFEFVXvjiHY&t=75s&pp=ygUbZm9ya2luZyBpbiBvcGVyYXRpbmcgc3lzdGVt){:target="_blank"} ---
   This is a tutorial video from Neso Academy about Forking.
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/chapter05/gcc-libstdc++.html){:target="_blank"} ---                                              This is the website provided to us to make Linux from scratch.
