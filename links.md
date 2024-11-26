@@ -26,5 +26,9 @@ Some easy-to-use commands you can use to inspect hardware.
   This is Docusaurus.io. This is just it's official website,not my personalized setup.
 * [Youtube Video - Forking](https://www.youtube.com/watch?v=IFEFVXvjiHY&t=75s&pp=ygUbZm9ya2luZyBpbiBvcGVyYXRpbmcgc3lzdGVt){:target="_blank"} ---
   This is a tutorial video from Neso Academy about Forking.
-* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/chapter05/gcc-libstdc++.html){:target="_blank"} ---              This is the website provided to us to make Linux from scratch.
-* [Linux From Scratch](https://www.youtube.com/watch?v=vMdPHpPiy4Q&list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&index=6&pp=iAQB){:target="_blank"} ---              This is the where a lot of us would probably mess up.
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/chapter05/gcc-libstdc++.html){:target="_blank"} ---
+  This is the website provided to us to make Linux from scratch.
+* [Linux From Scratch](https://www.youtube.com/watch?v=vMdPHpPiy4Q&list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&index=6&pp=iAQB){:target="_blank"} ---
+  This is the where a lot of us would probably mess up.
+* [Linux From Scratch](https://www.youtube.com/watch?v=ReIeiTqYTGc&list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&index=18){:target="_blank"} ---
+  This 5 hour video would be such an absolute monstrocity to run if your laptop has skill issues (mine).
